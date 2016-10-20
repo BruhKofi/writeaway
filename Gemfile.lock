@@ -447,6 +447,7 @@ DEPENDENCIES
   rails (= 4.2.6)
   rails_12factor (= 0.0.2)
   rails_best_practices (~> 1.15)
+  rake (~> 11.1.2)
   react-rails (~> 1.6)
   rspec-rails (~> 3.4.0)
   sass-rails (~> 5.0)
@@ -462,5 +463,8 @@ DEPENDENCIES
   web-console (~> 2.0)
   will_paginate (~> 3.1)
 
+RUBY VERSION
+   ruby 2.3.0p0
+
 BUNDLED WITH
-   1.11.2
+   1.13.5

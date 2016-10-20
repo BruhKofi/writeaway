@@ -4,6 +4,7 @@ ruby "2.3.0"
 gem 'rails', '4.2.6'
 gem 'puma', '~> 2.15'
 gem 'pg'
+gem 'rake', '~> 11.1.2'
 
 # Auth
 gem 'devise', '~> 3.5.3'
